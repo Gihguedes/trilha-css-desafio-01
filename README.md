@@ -11,5 +11,5 @@
 
 ### _Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores, é necessário utilizar a propriedade -webkit-background-clip: text;_
 
-### _Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch final. Basta alterar a branch do projeto utilizando o comando <sub>git checkout final</sub> no seu terminal._
+### Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch final. Basta alterar a branch do projeto utilizando o comando <sub>git checkout final</sub> no seu terminal.
 
